@@ -1,7 +1,7 @@
 # __Ánalisis de Resultados__
 Descripción sitios de cultivos, bosque, zonas urbana, pastizales, cuerpos de agua. 
 
-[![combibandas.png](https://i.postimg.cc/Kv5X277C/combibandas.png)](https://postimg.cc/9rzgP7nB)
+[![bandas.png](https://i.postimg.cc/fLhFp5q3/bandas.png)](https://postimg.cc/v13367sM)
 
 ## **Conteste las siguientes preguntas**
 1.	¿Cuáles son las ventajas de las características multiespectrales de los datos de teledetección digital?
