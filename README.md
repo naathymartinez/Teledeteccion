@@ -19,3 +19,6 @@ Descripción sitios de cultivos, bosque, zonas urbana, pastizales, cuerpos de ag
 
 4.	[Code Earth Engine](https://code.earthengine.google.com/?scriptPath=users%2Fmartineznathalia17%2Fcuenca%3AUntitledFile)
 
+
+*Natalia Martínez
+*Janine Gutierrez
